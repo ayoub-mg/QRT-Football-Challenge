@@ -1,6 +1,8 @@
 # QRT Football Challenge
 
-This project was developed as part of the **QRT Data Challenge x Télécom Business Finance**, where we tackled the task of predicting the outcomes of football matches. Our team's submission achieved **1st place on the public leaderboard** and **2nd place on the private leaderboard**, with an accuracy of 0.4861, just shy of the top private score of 0.4875.
+This project was developed as part of the **QRT Data Challenge x Télécom Business Finance**, where we tackled the task of predicting the outcomes of football matches. We received real historical data at both the team and player levels and had to predict which team would win or if the match would result in a draw. The data covered many leagues worldwide, as well as different divisions. The objective was to build a rich predictive model that could work for any football league, regardless of the competition level or geographical location.
+
+Our team's submission achieved **1st place on the public leaderboard** and **2nd place on the private leaderboard**, with an accuracy of 0.4861, just shy of the top private score of 0.4875.
 
 The whole dataset and further description of the competition can be found on the [challenge website](https://challengedata.ens.fr/participants/challenges/143/).
 
