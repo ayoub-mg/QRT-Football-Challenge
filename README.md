@@ -1,11 +1,8 @@
-# QRT-Football-Challenge
+# QRT Football Challenge
 
 This project was developed as part of the **QRT Data Challenge x Télécom Business Finance**, where we tackled the task of predicting the outcomes of football matches. Our team's submission achieved **1st place on the public leaderboard** and **2nd place on the private leaderboard**, with an accuracy of 0.4861, just shy of the top private score of 0.4875.
 
-## Team Members
-- Achraf
-- Ayoub
-- Yann
+The whole dataset and further description of the competition can be found on the [challenge website](https://challengedata.ens.fr/participants/challenges/143/).
 
 ## Project Structure
 - `benchmark_notebook.ipynb`: This notebook serves as the baseline for the project. The model predicts whether the away team wins, using an XGBoost classifier. Basic data preprocessing and analysis were done, and a benchmark accuracy was established based on simple assumptions like always predicting home wins.
